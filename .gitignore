@@ -1,0 +1,27 @@
+# Build results
+/bin/
+/obj/
+/out/
+
+# Rider files
+/.idea/
+/*.iml
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# HTTP requests
+/httpRequests/
+
+# Datasources
+/dataSources/
+/dataSources.local.xml
+
+# Others
+/shelf/

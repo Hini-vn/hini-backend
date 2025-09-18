@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hini.API", "Hini.API\Hini.API.csproj", "{F51D4D45-1B4D-4111-BE3D-7D995417E0A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hini.Domain", "Hini.Domain\Hini.Domain.csproj", "{26356225-5B85-418B-BECE-D3922F8E2E2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hini.Application", "Hini.Application\Hini.Application.csproj", "{619B5DEF-4300-4081-A572-830D3E9F5A72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hini.Infrastructure", "Hini.Infrastructure\Hini.Infrastructure.csproj", "{6FE4270F-A6BC-4964-AF75-438681EA097E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F51D4D45-1B4D-4111-BE3D-7D995417E0A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F51D4D45-1B4D-4111-BE3D-7D995417E0A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F51D4D45-1B4D-4111-BE3D-7D995417E0A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F51D4D45-1B4D-4111-BE3D-7D995417E0A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26356225-5B85-418B-BECE-D3922F8E2E2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26356225-5B85-418B-BECE-D3922F8E2E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26356225-5B85-418B-BECE-D3922F8E2E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26356225-5B85-418B-BECE-D3922F8E2E2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{619B5DEF-4300-4081-A572-830D3E9F5A72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{619B5DEF-4300-4081-A572-830D3E9F5A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{619B5DEF-4300-4081-A572-830D3E9F5A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{619B5DEF-4300-4081-A572-830D3E9F5A72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FE4270F-A6BC-4964-AF75-438681EA097E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FE4270F-A6BC-4964-AF75-438681EA097E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FE4270F-A6BC-4964-AF75-438681EA097E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FE4270F-A6BC-4964-AF75-438681EA097E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
