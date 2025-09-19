@@ -2,26 +2,46 @@
 /bin/
 /obj/
 /out/
+/publish/
+/TestResults/
 
-# Rider files
+# Rider IDE
 /.idea/
 /*.iml
 /modules.xml
 /contentModel.xml
 /projectSettingsUpdater.xml
+/.idea/.idea.*
 
-# User-specific files
+# Visual Studio
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
+.vs/
 
-# HTTP requests
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Rider HTTP requests
 /httpRequests/
 
 # Datasources
 /dataSources/
 /dataSources.local.xml
 
+# Logs
+*.log
+
 # Others
 /shelf/
+*.tmp
+*.bak
+*.swp
